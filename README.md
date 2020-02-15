@@ -12,6 +12,8 @@ Berdasarkan pengetahuan dan pemahaman saya, JSON (JavaScript Object Notation) ad
 
 - File 2.js Untuk mengecek validasi username, ketik pada console: console.log("Is The Username Valid? "+ is_username_valid("Masukkan username"));. Sedangkan untuk mengecek validasi password, ketik pada console: console.log("Is The Password Valid? "+ is_password_valid("Masukkan password"));.
 
-- File 3.py Untuk menghitung berapa banyak karakter di parameter ke 2 dari string di parameter pertama, silahkan ketik countChar("nama_string","karakter_yang_akan_di_cek") atau anda bisa uncomment sourcecode diatas.
+- File 3.py Untuk menghitung berapa banyak karakter di parameter ke 2 dari string di parameter pertama, silahkan ketik countChar("nama_string","karakter_yang_akan_di_cek") atau anda bisa uncomment komentar pada sourcecode diatas.
 
-- File 4.py Untuk memvalidasi input kode hex yang valid atau tidak, silahkan ketik validateColor("masukkan_kode_hex") atau anda bisa uncomment sourcecode diatas.
+- File 4.py Untuk memvalidasi input kode hex yang valid atau tidak, silahkan ketik validateColor("masukkan_kode_hex") atau anda bisa uncomment komentar pada sourcecode diatas.
+
+- File 5.py Untuk mencari profit/keuntungan paling besar yang bisa didapatkan, silahkan uncomment komentar pada sourcecode diatas.
